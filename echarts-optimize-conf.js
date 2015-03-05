@@ -1,3 +1,7 @@
+/*
+ * config reference: https://github.com/ecomfe/echarts-optimizer
+ */
+
 exports.modules = {
     main: {name: 'echarts/echarts'},
     parts: [
