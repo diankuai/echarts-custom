@@ -1,5 +1,26 @@
 # echarts-custom
 Custom ECharts's for dian-web
+
+## Develop
+
+#### Checkout project
+
+```
+git clone [project.git]
+```
+
+#### Update submodule
+
+```
+git submodule init
+git submodule update
+```
+
+#### build custom echarts
+
+ref: https://github.com/ecomfe/echarts-optimizer 
+
+
 ## Reference
 
 * https://github.com/ecomfe/echarts-optimizer
