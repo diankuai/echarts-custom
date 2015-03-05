@@ -1,5 +1,5 @@
 # echarts-custom
-Custom ECharts's for dian-web
+Custom ECharts for dian-web
 
 ## Develop
 
