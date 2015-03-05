@@ -18,7 +18,18 @@ git submodule update
 
 #### build custom echarts
 
-ref: https://github.com/ecomfe/echarts-optimizer 
+##### install tools
+
+```
+$ [sudo] npm install -g echarts-optimizer
+```
+
+##### excute build
+
+```
+$ echarts-optimize
+```
+the default output directory is ./dist
 
 
 ## Reference
