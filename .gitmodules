@@ -1,0 +1,6 @@
+[submodule "echarts"]
+	path = echarts
+	url = git@github.com:ecomfe/echarts.git
+[submodule "zrender"]
+	path = zrender
+	url = git@github.com:ecomfe/zrender.git
