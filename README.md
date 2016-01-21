@@ -1,3 +1,8 @@
+# Already Update to Echarts3
+
+https://github.com/diankuai/dian-server/issues/92
+
+
 # echarts-custom
 Custom ECharts for dian-web
 
